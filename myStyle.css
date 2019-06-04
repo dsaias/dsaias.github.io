@@ -1,0 +1,13 @@
+/* myStyle.css */
+
+body{
+    background-color:yellow;
+
+}
+
+p {
+    font-size: 2em;
+    background-color: black;
+    color: red;
+    text-align: center;
+}
